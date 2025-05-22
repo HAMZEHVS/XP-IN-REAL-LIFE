@@ -1,0 +1,1 @@
+console.log("Mindmap script loaded. Future interactive features go here.");
